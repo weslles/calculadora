@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+### Projeto Calculadora
+
+![Calculadora](src/img/Calculadora%20pronta.png)
+
+A figura acima é o resultado do projeto da calculadora pronta e funcionando!
+
 ## Available Scripts
 
 In the project directory, you can run:
